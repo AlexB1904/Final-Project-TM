@@ -1,6 +1,6 @@
 # Guru99 Project
-### ***Test Plan***
-**Revision History**
+## ***Test Plan***
+### **Revision History**
 
 | Date | Description | Author | Comments |
 |---|---|---|---|
