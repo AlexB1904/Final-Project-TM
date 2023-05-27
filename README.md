@@ -129,5 +129,5 @@ Verify if the following elements are ready before test execution:
 
 * Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
 
-
+### **3. Test deliverables**
 
