@@ -88,3 +88,17 @@ Tools: Jira, Postman, MySQL
 
 * *Project risks:* lack of experience of QA team, lack of tools, short deadline for Jira and Zephyr Squad, unavailability of OrangeHRM demo environment
 * *Product risks:* Validation constraints on the fields might be too restrictive to the end user
+
+#### ***2.2 Test analysis***
+
+* Analyze the business requirements to make sure that we have all the details to create the test conditions 
+* Write test conditions that will be tested in out test process
+
+#### ***2.3 Test design***
+
+* Functional test cases will be created in Jira
+* GUI test cases will be created in Jira
+* API test case will be created in Postman
+* Queries in DB will be done in MySQL
+
+#### ***2.4 Test implementation***
