@@ -20,3 +20,12 @@
         5. Test execution
         6. Test closure
         7. Test monitoring and control
+    3. Test deliverables
+        1. Test plan
+        2. Test conditions
+        3. Test cases
+        4. Daily test summary reports
+        5. Traceability matrix
+        6. Test case results
+        7. Bugs report
+        8. Test completion report
