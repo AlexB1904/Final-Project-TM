@@ -29,3 +29,16 @@
         6. Test case results
         7. Bugs report
         8. Test completion report
+
+### **1. Introduction**
+
+This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for Guru99 Bank.
+
+### ***1.1 Project Objective***
+
+The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application.
+
+Application under test:
+[Guru99 Bank](https://demo.guru99.com/V4/index.php) - The focus will be only on "Manager module"
+
+Application [documentation.](https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit)
