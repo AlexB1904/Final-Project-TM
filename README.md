@@ -32,13 +32,33 @@
 
 ### **1. Introduction**
 
-This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for Guru99 Bank.
+* This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for Guru99 Bank.
 
-### ***1.1 Project Objective***
+#### ***1.1 Project Objective***
 
-The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application.
+* The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application.
 
 Application under test:
 [Guru99 Bank](https://demo.guru99.com/V4/index.php) - The focus will be only on "Manager module"
 
 Application [documentation.](https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit)
+
+Tools: Jira, Postman, MySQL
+
+#### ***1.2 Functionalities in scope***
+
+* All the features of "Manager module" which were defined in business requirements need to be tested: functional testing, GUI testing and API testing
+* The below user story was created in Jira and describes functional specifications of the "Manager module"
+
+#### ***1.3 Functionalities and tests out of scope***
+
+* Non-functional testing like stress, performance is beyond scope of this project
+* No QA support for mobile application developed. Only web application will be tested.
+* Automation testing is beyond scope
+
+### **2. Test process**
+
+#### ***2.1 Test planning***
+
+
+
