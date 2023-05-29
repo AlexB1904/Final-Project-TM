@@ -39,7 +39,7 @@
 * The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application.
 
 Application under test:
-[Guru99 Bank](https://demo.guru99.com/V4/index.php) - The focus will be only on "Manager module"
+[Guru99 Bank](https://demo.guru99.com/V4/index.php) - The focus will be only on **"Front End Details - New costumer module"**
 
 Application [documentation.](https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit)
 
@@ -47,8 +47,8 @@ Tools: Jira, Postman, MySQL
 
 #### ***1.2 Functionalities in scope***
 
-* All the features of "Manager module" which were defined in business requirements need to be tested: functional testing, GUI testing and API testing
-* The below user story was created in Jira and describes functional specifications of the "Manager module"
+* All the features of **"New costumer module"** which were defined in business requirements need to be tested: functional testing, GUI testing and API testing
+* The below user story was created in Jira and describes functional specifications of the **"New costumer module"**
 
 #### ***1.3 Functionalities and tests out of scope***
 
@@ -155,8 +155,8 @@ Verify if the following elements are ready before test execution:
 
 | Task | Date | Team member |
 |---|---|---|
-| Run functional test cases for Job submenu of Admin module| 28.04. 2023 | Alexandru Bud |
-| Run GUI test cases for Job submenu of Admin module| 02.05.2023 | Ema Bud |
+| Run functional test cases for **"New costumer module"** | 28.04. 2023 | Alexandru Bud |
+| Run GUI test cases for **"New costumer module"** | 02.05.2023 | Ema Bud |
 
 
 
