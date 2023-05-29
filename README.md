@@ -131,3 +131,37 @@ Verify if the following elements are ready before test execution:
 
 ### **3. Test deliverables**
 
+#### ***3.1 Test plan***
+
+* The plan identifies the items to be tested, the features to be tested, the type of testing to be performed, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan.
+
+#### ***3.2 Test conditions***
+
+#### ***3.3 Test cases***
+
+#### ***3.4 Daily test summary report***
+
+#### ***3.5 Traceability matrix***
+
+#### ***3.6 Test case results***
+
+#### ***3.7 Bugs report***
+
+#### ***3.8 Test completion report***
+
+#### ***3.9 Schedule***
+
+* A test schedule includes the testing steps or tasks, the target start and end date and responsibilities.
+
+| Task | Date | Team member |
+|---|---|---|
+| Run functional test cases for Job submenu of Admin module| 28.04. 2023 | Alexandru Bud |
+| Run GUI test cases for Job submenu of Admin module| 02.05.2023 | Ema Bud |
+
+
+
+
+
+
+
+
