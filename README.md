@@ -32,7 +32,7 @@
 
 ### **1. Introduction**
 
-* This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for Guru99 Bank.
+* This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for "Guru99 Bank".
 
 #### ***1.1 Project Objective***
 
