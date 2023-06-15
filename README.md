@@ -86,7 +86,7 @@ Tools: Jira, Postman, MySQL
 
 #### **Risks:**
 
-* *Project risks:* lack of experience of QA team, lack of tools, short deadline for Jira and Zephyr Squad, unavailability of OrangeHRM demo environment
+* *Project risks:* lack of experience of QA team, lack of tools, short deadline for Jira and Zephyr Squad, unavailability of Guru99 Bank demo environment
 * *Product risks:* Validation constraints on the fields might be too restrictive to the end user
 
 #### ***2.2 Test analysis***
